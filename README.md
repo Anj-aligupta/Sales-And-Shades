@@ -2,6 +2,8 @@
 ### Python · Dash · Plotly · pandas · SQLite | Portfolio Project
 
 ---
+Live - file:///C:/Users/asus/Downloads/sales_shades_live_dashboard.html
+
 
 ## What This Project Does
 
